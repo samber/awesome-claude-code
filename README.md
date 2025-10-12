@@ -366,6 +366,17 @@ A broader project management workflow for Claude Code that encompasses not just 
 <details open>
 <summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
+[`cc-caffeine`](https://github.com/samber/cc-caffeine) &nbsp; by &nbsp; [samber](https://github.com/samber)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+☕️ Prevents your computer from sleeping while Claude Code works hard.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for ccexp](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=cc-caffeine&username=samber&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`cc-tools`](https://github.com/Veraticus/cc-tools) &nbsp; by &nbsp; [Josh Symonds](https://github.com/Veraticus)    
 High-performance Go implementation of Claude Code hooks and utilities. Provides smart linting, testing, and statusline generation with minimal overhead.
 
