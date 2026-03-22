@@ -187,10 +187,6 @@
   </picture>
 </div>
 
-<a href="https://github.com/samber/cc-skills-golang"><img src="../assets/badge-cc-skills-golang.svg" alt="cc-skills-golang"></a>  
-_A comprehensive set of Go-specific agent skills for Claude Code covering code style, naming, testing, security, observability, concurrency, and 20+ more areas. Skills are atomic and cross-referencing with lazy loading to minimize context usage. Features benchmark evaluations showing a +43pp overall error rate improvement. A focused companion to [cc-skills](https://github.com/samber/cc-skills) for production-ready Golang projects._  
-![GitHub Stats for cc-skills-golang](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=cc-skills-golang&username=samber&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
-
 <a href="https://github.com/K-Dense-AI/claude-scientific-skills"><img src="../assets/badge-claude-scientific-skills.svg" alt="Claude Scientific Skills"></a>  
 _"A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing." That's their description - modest, simple. That's how you can tell this is really one of the best skills repos on GitHub. If you've ever thought about getting a PhD... just read all of these documents instead. Also I think it IS an AI agent or something? Awesome._  
 ![GitHub Stats for claude-scientific-skills](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-scientific-skills&username=K-Dense-AI&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
@@ -198,6 +194,10 @@ _"A set of ready-to-use Agent Skills for research, science, engineering, analysi
 <a href="https://github.com/vaporif/parry"><img src="../assets/badge-parry.svg" alt="parry"></a>  
 _Prompt injection scanner for Claude Code hooks. Scans tool inputs and outputs for injection attacks, secrets, and data exfiltration attempts. [NOTE: Early development phase but worth a look.]_  
 ![GitHub Stats for parry](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=parry&username=vaporif&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<a href="https://github.com/ldayton/Dippy"><img src="../assets/badge-dippy.svg" alt="Dippy"></a>  
+_Auto-approve safe bash commands using AST-based parsing, while prompting for destructive operations. Solves permission fatigue without disabling safety. Supports Claude Code, Gemini CLI, and Cursor._  
+![GitHub Stats for Dippy](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=Dippy&username=ldayton&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 
 <br>
@@ -567,13 +567,6 @@ _A comprehensive pipeline of Skills that replicates traditional publishing infra
 <a href="https://github.com/akin-ozer/cc-devops-skills"><img src="../assets/badge-cc-devops-skills.svg" alt="cc-devops-skills"></a>  
 _Immensely detailed set of skills for DevOps Engineers (or anyone who has to deploy code, really). Works with validations, generators, shell scripts and CLI tools to create high quality IaC code for about any platform you've ever struggled painfully to work with. Worth downloading even just as a source of documentation._  
 ![GitHub Stats for cc-devops-skills](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=cc-devops-skills&username=akin-ozer&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
-
-<div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
-
-
-<a href="https://github.com/samber/cc-skills-golang"><img src="../assets/badge-cc-skills-golang.svg" alt="cc-skills-golang"></a>  
-_A comprehensive set of Go-specific agent skills for Claude Code covering code style, naming, testing, security, observability, concurrency, and 20+ more areas. Skills are atomic and cross-referencing with lazy loading to minimize context usage. Features benchmark evaluations showing a +43pp overall error rate improvement. A focused companion to [cc-skills](https://github.com/samber/cc-skills) for production-ready Golang projects._  
-![GitHub Stats for cc-skills-golang](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=cc-skills-golang&username=samber&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 <div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
 
