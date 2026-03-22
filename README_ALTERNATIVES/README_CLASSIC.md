@@ -46,6 +46,17 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 ## Latest Additions ✨ [🔝](#awesome-claude-code)
 
 
+[`cc-skills-golang`](https://github.com/samber/cc-skills-golang) &nbsp; by &nbsp; [samber](https://github.com/samber)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A comprehensive set of Go-specific agent skills for Claude Code covering code style, naming, testing, security, observability, concurrency, and 20+ more areas. Skills are atomic and cross-referencing with lazy loading to minimize context usage. Features benchmark evaluations showing a +43pp overall error rate improvement. A focused companion to [cc-skills](https://github.com/samber/cc-skills) for production-ready Golang projects.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for cc-skills-golang](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=cc-skills-golang&username=samber&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`Claude Scientific Skills`](https://github.com/K-Dense-AI/claude-scientific-skills) &nbsp; by &nbsp; [K-Dense](https://github.com/K-Dense-AI/)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 "A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing." That's their description - modest, simple. That's how you can tell this is really one of the best skills repos on GitHub. If you've ever thought about getting a PhD... just read all of these documents instead. Also I think it IS an AI agent or something? Awesome.
 
@@ -64,50 +75,6 @@ Prompt injection scanner for Claude Code hooks. Scans tool inputs and outputs fo
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for parry](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=parry&username=vaporif&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`Dippy`](https://github.com/ldayton/Dippy) &nbsp; by &nbsp; [Lily Dayton](https://github.com/ldayton)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Auto-approve safe bash commands using AST-based parsing, while prompting for destructive operations. Solves permission fatigue without disabling safety. Supports Claude Code, Gemini CLI, and Cursor.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for Dippy](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=Dippy&username=ldayton&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`sudocode`](https://github.com/sudocode-ai/sudocode) &nbsp; by &nbsp; [ssh-randy](https://github.com/ssh-randy)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
-Lightweight agent orchestration dev tool that lives in your repo. Integrates with various specification frameworks. It's giving Jira.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for sudocode](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=sudocode&username=sudocode-ai&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`claude-tmux`](https://github.com/nielsgroen/claude-tmux) &nbsp; by &nbsp; [Niels Groeneveld](https://github.com/nielsgroen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
-Manage Claude Code within tmux. A tmux popup of all your Claude Code instances, enabling quick switching, status monitoring, session lifecycle management, with git worktree and pull request support.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for claude-tmux](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-tmux&username=nielsgroen&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`claude-esp`](https://github.com/phiat/claude-esp) &nbsp; by &nbsp; [phiat](https://github.com/phiat)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Go-based TUI that streams Claude Code's hidden output (thinking, tool calls, subagents) to a separate terminal. Watch multiple sessions simultaneously, filter by content type, and track background tasks. Ideal for debugging or understanding what Claude is doing under the hood without interrupting your main session.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for claude-esp](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-esp&username=phiat&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -236,6 +203,17 @@ Immensely detailed set of skills for DevOps Engineers (or anyone who has to depl
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for cc-devops-skills](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=cc-devops-skills&username=akin-ozer&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`cc-skills-golang`](https://github.com/samber/cc-skills-golang) &nbsp; by &nbsp; [samber](https://github.com/samber)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A comprehensive set of Go-specific agent skills for Claude Code covering code style, naming, testing, security, observability, concurrency, and 20+ more areas. Skills are atomic and cross-referencing with lazy loading to minimize context usage. Features benchmark evaluations showing a +43pp overall error rate improvement. A focused companion to [cc-skills](https://github.com/samber/cc-skills) for production-ready Golang projects.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for cc-skills-golang](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=cc-skills-golang&username=samber&all_stats=true&stats_only=true)
 
 </details>
 <br>

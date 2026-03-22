@@ -89,6 +89,15 @@ A flat list view of all resources. Category: **Skills** | Sorted: alphabetically
 <td colspan="4"><img src="https://img.shields.io/github/stars/akin-ozer/cc-devops-skills?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/akin-ozer/cc-devops-skills?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/akin-ozer/cc-devops-skills?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/akin-ozer/cc-devops-skills?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/akin-ozer/cc-devops-skills?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/akin-ozer/cc-devops-skills?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/akin-ozer/cc-devops-skills?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/akin-ozer/cc-devops-skills?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/akin-ozer/cc-devops-skills?style=flat-square" alt="license"></td>
 </tr>
 <tr>
+<td><a href="https://github.com/samber/cc-skills-golang"><b>cc-skills-golang</b></a><br>by <a href="https://github.com/samber">samber</a></td>
+<td>Agent Skills</td>
+<td>General</td>
+<td>A comprehensive set of Go-specific agent skills for Claude Code covering code style, naming, testing, security, observability, concurrency, and 20+ more areas. Skills are atomic and cross-referencing with lazy loading to minimize context usage. Features benchmark evaluations showing a +43pp overall error rate improvement. A focused companion to [cc-skills](https://github.com/samber/cc-skills) for production-ready Golang projects.</td>
+</tr>
+<tr>
+<td colspan="4"><img src="https://img.shields.io/github/stars/samber/cc-skills-golang?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/samber/cc-skills-golang?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/samber/cc-skills-golang?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/samber/cc-skills-golang?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/samber/cc-skills-golang?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/samber/cc-skills-golang?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/samber/cc-skills-golang?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/samber/cc-skills-golang?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/samber/cc-skills-golang?style=flat-square" alt="license"></td>
+</tr>
+<tr>
 <td><a href="https://github.com/undeadlist/claude-code-agents"><b>Claude Code Agents</b></a><br>by <a href="https://github.com/undeadlist">Paul - UndeadList</a></td>
 <td>Agent Skills</td>
 <td>General</td>
@@ -219,6 +228,6 @@ A flat list view of all resources. Category: **Skills** | Sorted: alphabetically
 
 ---
 
-**Total Resources:** 18
+**Total Resources:** 19
 
-**Last Generated:** 2026-03-02
+**Last Generated:** 2026-03-22
